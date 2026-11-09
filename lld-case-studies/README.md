@@ -12,6 +12,7 @@ Java low-level design exercises originally collected in `LLD_practiceV2/LLDAttem
 | [Library management](./src/libraryManagementSystemLLD/README.md) | Catalog, loans, holds, and item states |
 | [Order management](./src/orderManagermentSystemLLD/README.md) | Inventory, reservations, and order expiry |
 | [Parking lot](./src/parkingLot_LLD/README.md) | Parking lot domain model |
+| [Rate-limited cache](./src/rateLimitedCache/README.md) | Thread-safe LRU cache and per-user token-bucket rate limiter |
 | [Vending machine](./src/stateMachine_LLD/README.md) | State-based vending machine |
 | [UPI / Paytm wallet](./src/UPI_PayTM_LLD/README.md) | Wallet and account transfer exercises |
 
